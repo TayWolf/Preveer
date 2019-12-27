@@ -1,0 +1,9 @@
+controlar fecha y hora de deposito al banco
+catalogo de servicio. amarrarlo con los inmuebles de uno a muchos
+ 
+Arrendamiento mensual
+
+Arrendamioento inmuebles
+
+Tipo de doctos inmuebles , contrato de arrendamiento, addendum varios .
+Unificar los doctos a nivel del datos arrendador
